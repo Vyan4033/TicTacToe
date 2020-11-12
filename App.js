@@ -16,7 +16,7 @@ function App() {
           Nim  : 1119101734<br>
           </br>
           Kelas: SP 3.2 {" "}
-          <a href="https://github.com/Clarity-89/React_tic_tac_toe">Github</a></center>
+          <a href="https://github.com/Vyan4033/TicTacToe">Github</a></center>
         </FooterInner>
       </Footer>
     </>
